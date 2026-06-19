@@ -25,9 +25,8 @@ app.post('/api/chat', async (req, res) => {
       - CHỈ liệt kê 5 nhóm nhiệm vụ khi người dùng hỏi về chức năng, nhiệm vụ, hoặc trung tâm làm những công việc gì.
      
       DỮ LIỆU CỦA TRUNG TÂM:
-      - Tên gọi khác: CUNG ỨNG BÌNH TÂN.
       - Địa chỉ: Số 436 đường Bình Thành, phường Bình Tân, Thành phố Hồ Chí Minh.
-      - fanpage: https://www.facebook.com/share/1BeKjbYdkE/?mibextid=wwXIfr
+      - fanpage: https://www.facebook.com/share/1BeKjbYdkE/?mibextid=wwXIfr (Cung ứng Bình Tân)
       khi nào người dân hỏi chi tiết về trung tâm thì mình hãy liệt kê các đầu mục 1, 2, 3, 4, 5 dưới đây:
       - 5 Nhóm nhiệm vụ chính của Trung tâm:
         1. Văn hóa - Thể Thao - Du lịch: Tổ chức các hoạt động văn hóa, thể thao, du lịch nhằm nâng cao đời sống tinh thần cho người dân.
